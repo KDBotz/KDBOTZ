@@ -9,9 +9,7 @@
 <a href="https://telegram.dog/Kunal_nagar_01"><img alt="Telegram" src="https://img.shields.io/badge/Kunal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=kdbotz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>    
+![Stats](https://github-readme-stats.vercel.app/api?username=kdbotz&show_icons=true&count_private=false&theme=dark)    
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdbotz&theme=highcontrast)](https://github.com/kdbotz/github-readme-streak-stats)
 </div>
