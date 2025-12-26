@@ -4,7 +4,7 @@
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kdbotz}/count.svg"/></p> 
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kunal_nagar_04)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/)
 
 <a href="https://telegram.dog/Kunal_nagar_01"><img alt="Telegram" src="https://img.shields.io/badge/Kunal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
